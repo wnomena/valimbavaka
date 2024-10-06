@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(250, 249, 247);
+}
+.container .col-12 .col-7 .col-2 {
+    font-weight: 600;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.row .col-11  {
+    background-image: url("../07b1d6dd-e457-489c-a501-3a6bd599b895.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    height: 70vh;
+    display: flex;
+    flex-direction: row-reverse;
+    /* border: 1px solid; */
+}
+.row .col-11 .col-6 p {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+.row .col-11 .col-6 .fs-2 {
+    color: lawngreen;
+}
+button {
+    margin-top: 20px;
+    border: 0;
+    border-radius: 3px;
+    color: white;
+    background: linear-gradient(lawngreen,green,lawngreen);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ .col-11 .col-8  .col-12 p {
+    color: rgb(78, 142, 13);
+}
+.col-11 .col-8  .col-12 img {
+    float: left;
+    height: 33vh;
+}
+.col-12 .col-12 .col-4 .col-11 {
+    height: 150px;
+}
+.col-12 .col-12 .col-4 {
+    background: linear-gradient(180deg,#448800,#039f03,green);
+}
